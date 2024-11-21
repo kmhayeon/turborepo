@@ -33,7 +33,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            안녕하세요.
+            안녕하세요. 배포입니다.
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
